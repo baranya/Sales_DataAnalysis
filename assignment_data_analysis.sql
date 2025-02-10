@@ -1,5 +1,5 @@
 /* Insights related to canceled orders-
- * 1) Shipping is gradually going down from the year begining to the end.
+ * 1) The shipping charge for canceled orders gradually decreases from the beginning of the year to the end.
  * 2) Some regions contribute more to return-related shipping costs, which could indicate logistics inefficiencies or product dissatisfaction in those areas.
  * 3) After analyzing the dataset, "Sofa" emerges as the product with the highest canceled order shipping costs. 
  *    This indicates that a significant number of customers return sofas, leading to increased logistics expenses.
